@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/okok-popsmokee/modsbyokok.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+first mod [**here**](https://github.com/okok-popsmokee/dayandnightMCmodcommands/blob/main/READMEFIRST.txt)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

@@ -19,6 +19,4 @@ Minecraft day&night commands mod [**Download**](https://github.com/okok-popsmoke
 
 
 ---------------------------------------------------------------------------------
-## Creator: okok-popsmokee
-
-## © 2021 okok-popsmokee
+**© 2021 okok-popsmokee**

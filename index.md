@@ -1,6 +1,6 @@
-## Welcome to to my Website where i store all links to my mods.
+## Welcome to my Website where i have all links to my mods.
 
-**Minecraft** day&night commands mod [**Download**](https://github.com/okok-popsmokee/dayandnightMCmodcommands/raw/main/day%20and%20night%20commands%20mod.jar)
+**Minecraft** day&night commands mod [**Download**](https://github.com/okok-popsmokee/dayandnightMCmodcommands/releases/latest)
 
 
 
